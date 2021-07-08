@@ -12,7 +12,7 @@
 
 # Normal Way
 ```python3
-git clone https://github.com/rahulps1000/ForwardBot
+git clone https://github.com/mani0403/ForwardBot
 cd ForwardBot
 pip install -r requirements.txt
 
